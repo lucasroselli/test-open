@@ -1,15 +1,19 @@
 {
-  "name": "BrainDumpProject",
-  "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.13.3"
-  }
+    "name": "BrainDumpProject",
+    "version": "1.0.0",
+    "description": "teste para subir no open shift",
+    "main": "app.js",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/lucasroselli/test-open"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node app.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.13.3"
+    }
 }
